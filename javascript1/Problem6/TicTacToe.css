@@ -1,0 +1,38 @@
+body{
+    background-color: aqua ;
+    color: black;
+
+}
+
+h1 {
+    font-size: 30px;
+}
+
+table {
+    border-color: black;
+    border-collapse: collapse;
+
+}
+
+td{
+    padding: 10px;
+    border: 4px #888 solid;
+    text-align: center;
+    font-size: 30px;
+    width: 20%;
+
+}
+
+#cell0 {border-style: none solid solid none;}
+#cell1 {border-style: none solid solid solid;}
+#cell2 {border-style: none none solid solid;}
+#cell3 {border-style: solid solid solid none;}
+#cell4 {border-style: solid solid solid solid;}
+#cell5 {border-style: solid none solid solid;}
+#cell6 {border-style: solid solid none none;}
+#cell7 {border-style: solid solid none solid;}
+#cell8 {border-style: solid none none solid;}
+
+.winningCell {
+    background-color: blueviolet;
+}
