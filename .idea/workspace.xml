@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6348e8-e18b-48f7-8fe8-97b5c70483b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem3/docProperties.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem3/docProperties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem2/minMaxNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem1/numberChecker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem4/arrayBuilder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem5/charComparer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem6/seqFinder1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem6/sequenceFinder.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/javascript2/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptGit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,10 +82,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docProperties.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docProperties.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript3/Problem3/docProperties.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrayBuilder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem4/arrayBuilder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="charComparer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem5/charComparer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seqFinder1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem6/seqFinder1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -185,11 +213,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript3/Problem6" />
+      <recent name="$PROJECT_DIR$/javascript3/Problem5" />
+      <recent name="$PROJECT_DIR$/javascript3/Problem4" />
       <recent name="$PROJECT_DIR$/javascript3/Problem3" />
       <recent name="$PROJECT_DIR$/javascript3/Problem2" />
-      <recent name="$PROJECT_DIR$/javascript3/Problem1" />
-      <recent name="$PROJECT_DIR$/javascript3" />
-      <recent name="$PROJECT_DIR$/javascript2/Problem2" />
     </key>
   </component>
   <component name="RunManager">
@@ -358,6 +386,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript3/Problem3/docProperties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem4/arrayBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem5/charComparer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem6/seqFinder1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
