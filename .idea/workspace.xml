@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6348e8-e18b-48f7-8fe8-97b5c70483b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem911/bracketChecker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem911/bracketChecker1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem911/bracketChecker2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem910/stringReverse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem913/spaceReplace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem913/spaceReplace1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript3/Problem 912/substringSearch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptGit.iws" />
@@ -30,36 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arrayBuilder.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem4/arrayBuilder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="charComparer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem5/charComparer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seqFinder1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem6/seqFinder1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="maxSequenceFinder1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript3/Problem7/maxSequenceFinder1.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,11 +90,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bracketChecker2.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bracketChecker2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript3/Problem911/bracketChecker2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23715416" vertical-offset="0" max-vertical-offset="765">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
               <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="substringSearch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/substringSearch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subStringSearch1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <caret line="30" column="199" selection-start-line="30" selection-start-column="199" selection-end-line="30" selection-end-column="199" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spaceReplace.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript3/Problem913/spaceReplace.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,6 +142,8 @@
         <option value="$PROJECT_DIR$/javascript3/Problem8/selectionSort.js" />
         <option value="$PROJECT_DIR$/javascript3/Problem911/bracketChecker.js" />
         <option value="$PROJECT_DIR$/javascript3/Problem911/bracketChecker2.js" />
+        <option value="$PROJECT_DIR$/javascript3/Problem 912/substringSearch.js" />
+        <option value="$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js" />
       </list>
     </option>
   </component>
@@ -221,11 +223,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript3/Problem913" />
+      <recent name="$PROJECT_DIR$/javascript3/Problem 912" />
       <recent name="$PROJECT_DIR$/javascript3/Problem911" />
       <recent name="$PROJECT_DIR$/javascript3/Problem910" />
       <recent name="$PROJECT_DIR$/javascript3/Problem9" />
-      <recent name="$PROJECT_DIR$/javascript3/Problem8" />
-      <recent name="$PROJECT_DIR$/javascript3/Problem7" />
     </key>
   </component>
   <component name="RunManager">
@@ -283,7 +285,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1404" height="877" extended-state="0" />
+    <frame x="36" y="23" width="1404" height="877" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -560,8 +562,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript3/Problem911/bracketChecker2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23715416" vertical-offset="0" max-vertical-offset="765">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/substringSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="30" column="199" selection-start-line="30" selection-start-column="199" selection-end-line="30" selection-end-column="199" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript3/Problem913/spaceReplace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="757">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
