@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6348e8-e18b-48f7-8fe8-97b5c70483b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem3/absValue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem4/biggerThanNeighbors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem3/largestSumOfDigits2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem6/countofDivs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem5/reverseWords.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript4/Problem7/youngestPerson.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptGit.iws" />
@@ -29,36 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bracketChecker2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem911/bracketChecker2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="765">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="substringSearch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/substringSearch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="570">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subStringSearch1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="585">
-              <caret line="30" column="199" selection-start-line="30" selection-start-column="199" selection-end-line="30" selection-end-column="199" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="spaceReplace.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript3/Problem913/spaceReplace.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,10 +89,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="biggerThanNeighbors.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="biggerThanNeighbors.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript4/Problem4/biggerThanNeighbors.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseWords.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript4/Problem5/reverseWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countofDivs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript4/Problem6/countofDivs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="youngestPerson.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript4/Problem7/youngestPerson.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -203,7 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem4" />
+              <option name="myItemId" value="Problem7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,7 +221,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem3" />
+              <option name="myItemId" value="Problem6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,11 +278,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript4/Problem7" />
+      <recent name="$PROJECT_DIR$/javascript4/Problem6" />
+      <recent name="$PROJECT_DIR$/javascript4/Problem5" />
       <recent name="$PROJECT_DIR$/javascript4/Problem4" />
       <recent name="$PROJECT_DIR$/javascript4/Problem3" />
-      <recent name="$PROJECT_DIR$/javascript4/problem2" />
-      <recent name="$PROJECT_DIR$/javascript4/problem1" />
-      <recent name="$PROJECT_DIR$/javascript3/Problem915" />
     </key>
   </component>
   <component name="RunManager">
@@ -722,6 +740,30 @@
     <entry file="file://$PROJECT_DIR$/javascript4/Problem4/biggerThanNeighbors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript4/Problem5/reverseWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript4/Problem6/countofDivs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript4/Problem7/youngestPerson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
