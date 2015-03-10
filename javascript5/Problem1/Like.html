@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<button onclick="change()" type="button" id="b1">Like</button>
+<script>
+    var elem = document.getElementById("b1");
+    var bool = true;
+    function change(){
+
+        if (bool) {
+
+            elem.innerHTML = "Unlike";
+            bool = false;
+
+        }
+        else if (!bool) {
+
+            elem.innerHTML = "Like";
+            bool = true;
+        }
+    }
+
+</script>
+</body>
+</html>
+
+
