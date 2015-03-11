@@ -1,0 +1,37 @@
+<!--You are given an HTML file holding a table of elements and a button titled "Hide Odd Rows".
+Write JavaScript code hideOddRows.js that attaches to the button click
+event and hides the odd rows of the table when clicked.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <title></title>
+
+<body>
+<table border='1' >
+    <tr><td>row 1</td></tr>
+    <tr><td>row 2</td></tr>
+    <tr><td>row 3</td></tr>
+    <tr><td>row 4</td></tr>
+    <tr><td>row 5</td></tr>
+</table>
+<button onclick="hideOddRows()" id="btnHideOddRows">Hide Odd Rows</button>
+<!--<script src='hideOddRows.js'></script>-->
+<script>
+    var buttonHide = document.getElementById('btnHideOddRows'),
+            rows = document.getElementsByTagName('tr');
+
+    buttonHide.addEventListener('click', function () {
+        var counter = 0;
+        for(var i in rows) {
+            if(rows[i].tagName === 'TR') {
+                if(counter % 2 === 0) {
+                    rows[i].style.display = 'none';
+                }
+                counter++;
+            }
+        }
+    })
+</script>
+</body>
+</html>
