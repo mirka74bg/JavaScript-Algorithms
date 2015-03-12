@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6348e8-e18b-48f7-8fe8-97b5c70483b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript5/Problem3/hideOddRows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamJan9/Problem1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptGit.iws" />
@@ -27,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="biggerThanNeighbors.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript4/Problem4/biggerThanNeighbors.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="reverseWords.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript4/Problem5/reverseWords.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,11 +87,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hideOddRows.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hideOddRows.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript5/Problem3/hideOddRows.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06329114" vertical-offset="0" max-vertical-offset="630">
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExamJan9/Problem1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,10 +199,6 @@
               <option name="myItemId" value="JavaScriptGit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -211,6 +207,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaScriptGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExamJan9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -225,11 +225,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExamJan9" />
       <recent name="$PROJECT_DIR$/javascript5/Problem3" />
       <recent name="$PROJECT_DIR$/javascript5/Problem2" />
       <recent name="$PROJECT_DIR$/javascript5/Problem1" />
       <recent name="$PROJECT_DIR$/javascript4/Problem9" />
-      <recent name="$PROJECT_DIR$/javascript4/Problem8" />
     </key>
   </component>
   <component name="RunManager">
@@ -332,14 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript3/Problem 912/subStringSearch1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="585">
-          <caret line="30" column="199" selection-start-line="30" selection-start-column="199" selection-end-line="30" selection-end-column="199" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript3/Problem913/spaceReplace.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
@@ -712,8 +704,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript5/Problem3/hideOddRows.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06329114" vertical-offset="0" max-vertical-offset="630">
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamJan9/Problem1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
